@@ -1,0 +1,13 @@
+.page_NewProduct {
+  margin-top: 24px;
+  margin-bottom: 50px;
+}
+.tytile {
+  margin-left: 30%;
+}
+.form_group_img img {
+  width: 150px;
+  height: 150px;
+  margin-right: 1%;
+  margin-bottom: 50px;
+}
